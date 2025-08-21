@@ -1,0 +1,31 @@
+index,text,sentiment,ramya_appearances,score
+1,Ramya just landed a great presentation at the team meeting today.,Positive,1,1
+2,"Was waiting for Ramya to respond, but no reply yet.",Neutral,1,0
+3,Ramya helped fix the bug before noon—impressive work.,Positive,1,1
+4,"Another long day, Ramya; the deadline is approaching.",Neutral,1,0
+5,I’m not sure Ramya will like this proposal.,Neutral,1,0
+6,Ramya’s update made the client smile. Great job!,Positive,1,1
+7,"Nothing personal, Ramya, but the report needs revisions.",Neutral,1,0
+8,"Ramya, the new onboarding guide is fantastic.",Positive,1,1
+9,I missed Ramya during the stand-up this morning.,Neutral,1,0
+10,Ramya’s idea seemed risky and could backfire.,Negative,1,-1
+11,Kudos to Ramya for organizing the charity drive.,Positive,1,1
+12,Ramya needs to double-check the figures before sending.,Neutral,1,0
+13,I’m excited about Ramya’s upcoming workshop.,Positive,1,1
+14,"Ramya, we might consider a different approach.",Neutral,1,0
+15,Ramya made a mistake in the spreadsheet today.,Negative,1,-1
+16,Celebrating Ramya’s steady contributions this quarter.,Positive,1,1
+17,Ramya seems overwhelmed with the workload.,Neutral,1,0
+18,Not sure Ramya will join the lunch today.,Neutral,1,0
+19,Ramya’s feedback was incredibly helpful.,Positive,1,1
+20,"Ramya, could you review this draft?",Neutral,1,0
+21,The update from Ramya made the team optimistic.,Positive,1,1
+22,Ramya didn’t address the spillover issues.,Negative,1,-1
+23,Ramya is out sick today.,Neutral,1,0
+24,Ramya’s lunch photo looked delicious!,Positive,1,1
+25,"Ramya, this task might be beyond current scope.",Neutral,1,0
+26,We appreciate Ramya’s attention to detail.,Positive,1,1
+27,"Ramya’s response was a bit late, unfortunately.",Neutral,1,0
+28,I’m worried Ramya won’t meet the target this month.,Negative,1,-1
+29,"Ramya, your coffee choice is flawless.",Positive,1,1
+30,Ramya kept a calm tone during the crisis.,Positive,1,1
